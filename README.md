@@ -10,8 +10,9 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 ## My developer journey so far
 <br><br>
 
-
-<!-- LANGUAGES -->
+<!-- //////////////// -->
+<!-- CODING LANGUAGES -->
+<!-- //////////////// -->
 
 <!-- TABLE - start -->
 <table align="center">
@@ -78,8 +79,9 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 <hr style="width: 50%; margin: auto;">
 <br><br>
 
-
+<!-- ////////////////// -->
 <!-- TOOLS & FRAMEWORKS -->
+<!-- ////////////////// -->
 
 <!-- TABLE - start -->
 <table align="center">
@@ -141,17 +143,58 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 <hr style="width: 50%; margin: auto;">
 <br><br>
 
-<h3 align="center"> <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/e7c61635-0940-490b-ba71-113e0d29ffe5" height="40"> Currently learning skills </h3>
-<p align="center">
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/7eb4df35-db08-45b6-b7d8-0856eb67aa5d" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/d381e08b-cd65-4e32-b594-f45f59ef7a1a" height="100">
-</p>
+
+<!-- ////////////////// -->
+<!-- CURRENTLY LEARNING -->
+<!-- ////////////////// -->
+
+<!-- TABLE - start -->
+<table align="center">
+
+  <!-- HEADER - start -->
+  <tr>
+    <th colspan="4" align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/e7c61635-0940-490b-ba71-113e0d29ffe5" height="40" style="vertical-align: middle;">
+      <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Currently Learning Skills</h2>
+    </th>
+  </tr>
+  <!-- HEADER - end -->
+
+  <!-- LOGOS + TEXT - start -->
+  <tr>
+    <!-- REACT -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg" height="100">
+      <br>React
+    </td>
+    <!-- MONGO DB -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mongodb.svg" height="100">
+      <br>MongoDB
+    </td>
+    <!-- FIGMA -->
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" height="100">
+      <br>Figma
+    </td>
+    <!-- SOLIDITY -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/7eb4df35-db08-45b6-b7d8-0856eb67aa5d" height="100">
+      <br>Solidity
+    </td>
+  </tr>
+  <!-- LOGOS + TEXT - end -->
+
+</table>
+<!-- TABLE - end -->
+
+
 <br><br>
 
 ## About My Repositories
 
 My GitHub repositories reflect my diverse interests and expertise:
-* School 42 projects
+* School 42 projects (named "42-cursus_projectname")
 * Useful repositories I want to keep handy
 * Personal projects on topics that interest me or have broader significance
 
