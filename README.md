@@ -10,13 +10,16 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 ## My developer journey so far
 <br><br>
 
+
+<!-- LANGUAGES -->
+
 <!-- TABLE - start -->
 <table align="center">
 
   <!-- HEADER - start -->
   <tr>
     <th colspan="8" align="center">
-      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="40" style="vertical-align: middle;">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="80" style="vertical-align: middle;">
       <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Languages I Master</h2>
     </th>
   </tr>
@@ -39,11 +42,6 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
       <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/f0b4fb58-b07d-4138-ab61-4f19c6d51cba" height="100">
       <br>Bash
     </td>
-    <!-- Python -->
-    <td align="center">
-      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/3ee9df3d-5c8a-43f2-96b0-9a14b0868381" height="100">
-      <br>Python
-    </td>
     <!-- JS -->
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d8973538-6c66-4a4b-ae66-690420b15b3c" height="100">
@@ -58,6 +56,11 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d40208aa-4911-4901-9087-3e906b2fabe1" height="100">
       <br>HTML/CSS
+    </td>
+    <!-- Python -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/3ee9df3d-5c8a-43f2-96b0-9a14b0868381" height="100">
+      <br>Python
     </td>
     <!-- SQL -->
     <td align="center">
@@ -76,16 +79,63 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 <br><br>
 
 
+<!-- TOOLS & FRAMEWORKS -->
 
-<h3 align="center"> <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/da9d6859-1631-4253-b1d9-e6b76c35f0b9" height="40"> Technologies, frameworks and tools I master </h3>
-<p align="center">
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/6208a275-d95d-4708-8eae-2dccc4d51a5d" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/7896d98b-0b19-4805-b423-c4257fd76f49" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/b113a6f1-3658-4874-83b6-9005a0d62396" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/9de900e2-db96-4277-93d6-d64190379ff7" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/4440f660-c4af-4b95-af8d-9b64a9d2f40e" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/517739bc-95b0-4560-a2e2-3c04ad0aa387" height="100">
-</p>
+<!-- TABLE - start -->
+<table align="center">
+
+  <!-- HEADER - start -->
+  <tr>
+    <th colspan="7" align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/da9d6859-1631-4253-b1d9-e6b76c35f0b9" height="80" style="vertical-align: middle;">
+      <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Technologies, Frameworks and Tools I Master</h2>
+    </th>
+  </tr>
+  <!-- HEADER - end -->
+
+  <!-- LOGOS + TEXT - start -->
+  <tr>
+    <!-- Git -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/6208a275-d95d-4708-8eae-2dccc4d51a5d" height="100">
+      <br>Git
+    </td>
+    <!-- Docker -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/7896d98b-0b19-4805-b423-c4257fd76f49" height="100">
+      <br>Docker
+    </td>
+    <!-- Linux -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/b113a6f1-3658-4874-83b6-9005a0d62396" height="100">
+      <br>Linux
+    </td>
+    <!-- NGINX -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/9de900e2-db96-4277-93d6-d64190379ff7" height="100">
+      <br>NGINX
+    </td>
+    <!-- NODEJS -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/nodejs.svg" height="100">
+      <br>Node.js
+    </td>
+    <!-- Django -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/4440f660-c4af-4b95-af8d-9b64a9d2f40e" height="100">
+      <br>Django
+    </td>
+    <!-- MySQL -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/517739bc-95b0-4560-a2e2-3c04ad0aa387" height="100">
+      <br>MySQL
+    </td>
+  </tr>
+  <!-- LOGOS + TEXT - end -->
+
+</table>
+<!-- TABLE - end -->
+
 
 <!-- LINE -->
 <hr style="width: 50%; margin: auto;">
