@@ -15,7 +15,7 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 
   <!-- HEADER - start -->
   <tr>
-    <th colspan="7" align="center">
+    <th colspan="8" align="center">
       <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="40" style="vertical-align: middle;">
       <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Languages I Master</h2>
     </th>
@@ -46,17 +46,22 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
     </td>
     <!-- JS -->
     <td align="center">
-      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/1e51df4f-d6e0-4fb5-80ae-cdf7ac7f92e4" height="100">
+      <img src="https://github.com/user-attachments/assets/d8973538-6c66-4a4b-ae66-690420b15b3c" height="100">
       <br>JavaScript
+    </td>
+    <!-- TS -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/1e51df4f-d6e0-4fb5-80ae-cdf7ac7f92e4" height="100">
+      <br>TypeScript
     </td>
     <!-- HTML CSS -->
     <td align="center">
-      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/84fd5f50-446d-4078-a733-1e8f3089f405" height="100">
+      <img src="https://github.com/user-attachments/assets/d40208aa-4911-4901-9087-3e906b2fabe1" height="100">
       <br>HTML/CSS
     </td>
     <!-- SQL -->
     <td align="center">
-      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/af7e8640-5f94-44db-ba40-ab93ddbc318b" height="100">
+      <img src="https://github.com/user-attachments/assets/df16d2a3-af48-491b-bd2f-80d7269a4b02" height="100">
       <br>SQL
     </td>
   </tr>
