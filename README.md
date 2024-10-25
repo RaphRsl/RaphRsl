@@ -1,25 +1,76 @@
 Welcome to my GitHub profile! 👋
 
 <p align="justify">
-I'm Raphaël, a 26-year-old passionate about technology and innovation. Currently, I'm studying at <b>School 42</b>, honing my skills in various programming languages and technologies. I hold a double degree in Management and Strategy from <b>EDHEC Business School</b>, where I wrote my master thesis on Web3 strategies. My interests span across <b>AI</b>, <b>blockchain</b> technologies, and <b>board games</b>.
+I'm Raphaël, a 26-year-old passionate about technology and innovation. Currently, I'm studying at <b>School 42</b>, honing my skills in various programming languages and technologies. I hold a double degree in Management and Strategy from <b>EDHEC Business School</b>, where I wrote my master thesis on Web3 strategies. My interests span across <b>low level algos</b>, <b>JS Fullstacks projects</b>, and <b>board games</b>.
 </p>
 I'm always eager to learn and explore new tech trends and challenges. <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/fd5c91d2-e3c5-4472-9eea-8bf5694579f3" height="40">
 <br><br>
 
+
 ## My developer journey so far
 <br><br>
-<h3 align="center"> <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="40"> Languages I master </h3>
-<p align="center">
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/f0b4fb58-b07d-4138-ab61-4f19c6d51cba" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/fcb1c7dc-e637-435d-838c-bd4b99dfba5a" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/ff912b7b-0067-4757-b706-0c50981751e2" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/3ee9df3d-5c8a-43f2-96b0-9a14b0868381" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/1e51df4f-d6e0-4fb5-80ae-cdf7ac7f92e4" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/84fd5f50-446d-4078-a733-1e8f3089f405" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/af7e8640-5f94-44db-ba40-ab93ddbc318b" height="100">
-</p>
+
+<!-- TABLE - start -->
+<table align="center">
+
+  <!-- HEADER - start -->
+  <tr>
+    <th colspan="7" align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="40" style="vertical-align: middle;">
+      <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Languages I Master</h2>
+    </th>
+  </tr>
+<!-- HEADER - end -->
+
+<!-- LOGOS + TEXT - start -->
+  <tr>
+    <!-- C -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/fcb1c7dc-e637-435d-838c-bd4b99dfba5a" height="100">
+      <br>C
+    </td>
+    <!-- C++ -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/ff912b7b-0067-4757-b706-0c50981751e2" height="100">
+      <br>C++
+    </td>
+    <!-- Bash -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/f0b4fb58-b07d-4138-ab61-4f19c6d51cba" height="100">
+      <br>Bash
+    </td>
+    <!-- Python -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/3ee9df3d-5c8a-43f2-96b0-9a14b0868381" height="100">
+      <br>Python
+    </td>
+    <!-- JS -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/1e51df4f-d6e0-4fb5-80ae-cdf7ac7f92e4" height="100">
+      <br>JavaScript
+    </td>
+    <!-- HTML CSS -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/84fd5f50-446d-4078-a733-1e8f3089f405" height="100">
+      <br>HTML/CSS
+    </td>
+    <!-- SQL -->
+    <td align="center">
+      <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/af7e8640-5f94-44db-ba40-ab93ddbc318b" height="100">
+      <br>SQL
+    </td>
+  </tr>
+<!-- LOGOS + TEXT - end -->
+
+</table>
+<!-- TABLE - end -->
+
+
+<!-- LINE -->
 <hr style="width: 50%; margin: auto;">
 <br><br>
+
+
 
 <h3 align="center"> <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/da9d6859-1631-4253-b1d9-e6b76c35f0b9" height="40"> Technologies, frameworks and tools I master </h3>
 <p align="center">
@@ -30,6 +81,8 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/4440f660-c4af-4b95-af8d-9b64a9d2f40e" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/517739bc-95b0-4560-a2e2-3c04ad0aa387" height="100">
 </p>
+
+<!-- LINE -->
 <hr style="width: 50%; margin: auto;">
 <br><br>
 
