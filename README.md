@@ -193,10 +193,35 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 
 ## About My Repositories
 
+<!-- previous version kept for later
 My GitHub repositories reflect my diverse interests and expertise:
 * School 42 projects (named "42-cursus_projectname")
 * Useful repositories I want to keep handy
 * Personal projects on topics that interest me or have broader significance
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphrsl&layout=compact&theme=dark" />
+</a>
+-->
+
+<table align="center">
+  <tr>
+    <td>
+      My GitHub repositories reflect my diverse interests and expertise:<br><br>
+      <ul>
+        <li>School 42 projects (named "42-cursus_projectname")</li>
+        <li>Useful repositories I want to keep handy</li>
+        <li>Personal projects on topics that interest me or have broader significance</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="180%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphrsl&layout=compact&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 Feel free to browse through my repositories and reach out if you have any questions or suggestions. I'm always open to new opportunities and learning experiences.
 Starts here => [My repositories](https://github.com/RaphRsl?tab=repositories)
@@ -208,3 +233,8 @@ Starts here => [My repositories](https://github.com/RaphRsl?tab=repositories)
 [<img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/4c8d5482-c5dc-4925-87c0-16158d044994" height="40">](https://www.linkedin.com/in/rapha%C3%ABl-roussel-377566172/)
 
 Looking forward to connecting and create something together!
+
+<!-- to add later if needed 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=raphrsl&show_icons=true&theme=dark" />
+-->
+
