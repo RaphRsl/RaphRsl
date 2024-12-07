@@ -19,7 +19,7 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 
   <!-- HEADER - start -->
   <tr>
-    <th colspan="8" align="center">
+    <th colspan="7" align="center">
       <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/acd27840-2338-4b39-8e2c-23fb2f0d96d7" height="80" style="vertical-align: middle;">
       <h2 style="display: inline; vertical-align: middle; font-size: 36px; margin: 0;">Languages I Master</h2>
     </th>
@@ -59,10 +59,12 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
       <br>HTML/CSS
     </td>
     <!-- Python -->
+<!--
     <td align="center">
       <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/3ee9df3d-5c8a-43f2-96b0-9a14b0868381" height="100">
       <br>Python
     </td>
+  -->
     <!-- SQL -->
     <td align="center">
       <img src="https://github.com/user-attachments/assets/df16d2a3-af48-491b-bd2f-80d7269a4b02" height="100">
@@ -117,10 +119,10 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
       <img src="https://github.com/RaphRsl/RaphRsl/assets/79993112/9de900e2-db96-4277-93d6-d64190379ff7" height="100">
       <br>NGINX
     </td>
-    <!-- NODEJS -->
+    <!-- REACTJS -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/nodejs.svg" height="100">
-      <br>Node.js
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg" height="100">
+      <br>React
     </td>
     <!-- Django -->
     <td align="center">
@@ -162,10 +164,10 @@ I'm always eager to learn and explore new tech trends and challenges. <img src="
 
   <!-- LOGOS + TEXT - start -->
   <tr>
-    <!-- REACT -->
+    <!-- NODEJS -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg" height="100">
-      <br>React
+      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/nodejs.svg" height="100">
+      <br>Node.js
     </td>
     <!-- MONGO DB -->
     <td align="center">
